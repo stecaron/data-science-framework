@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 *.csv
+packrat/lib*/
+models/*
+!models/.gitkeep
+predictions/*
+!predictions/.gitkeep
+*.DS_Store
